@@ -1,0 +1,17 @@
+# Cursor IDE artifact — 로컬 작업 참조용, 추적 차단
+.cursor/
+.cursorindexingignore
+.cursorindexingignore.bak-*
+
+# Claude Code artifact — 자동 생성, 로컬 참조용
+CLAUDE.md
+.claude/
+
+# direnv
+.envrc
+.direnv/
+
+# OS
+.DS_Store
+*.swp
+*.swo
